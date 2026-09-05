@@ -6,6 +6,10 @@ series support, cover art, and the author's summary and credit.
 
 Works on **Tampermonkey** (Chromium/Firefox/Safari) and Violentmonkey.
 
+
+|<img width="374" height="630" alt="image" src="https://github.com/user-attachments/assets/a13bb31b-3ac5-4fba-baab-ec6ebac83298" /> |<img width="1021" height="804" alt="image" src="https://github.com/user-attachments/assets/63edebe0-af9b-480c-b991-99a94a0baef7" /> | <img width="818" height="854" alt="image" src="https://github.com/user-attachments/assets/ae37cd87-ec05-40a8-ad02-f05712e2897d" /> |
+| - | - | - |
+
 ---
 
 ## Features
