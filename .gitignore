@@ -1,0 +1,6 @@
+# Ignore things that shouldn't land in the repo
+.DS_Store
+node_modules/
+work/
+*.epub
+*.har
