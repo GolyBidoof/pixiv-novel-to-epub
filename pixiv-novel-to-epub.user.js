@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pixiv Novel → EPUB
 // @namespace    http://tampermonkey.net/
-// @version      1.4.4
+// @version      1.0.0
 // @description  Converts a Pixiv novel or entire series into a beautiful vertical Japanese EPUB with cover, synopsis, author avatar, and tate-chu-yoko typography.
 // @author       GolyBidoof
 // @match        https://www.pixiv.net/novel/show.php?id=*
